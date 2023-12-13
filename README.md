@@ -27,7 +27,7 @@ TIFF Validation Using JHOVE Application
 * Capture the JHOVE application installed location path in the INI file, e.g.: <path>D:\JHOVE\jhove.bat</path>
 * Run the program
 * Tool will ask to enter the Input file path of the input TIFF file path
-* Tool executes the TIFF files and created the "Validation_log.xlsx" file.
+* Tool executes the TIFF files and created the "Validation_log.xlsx" file. 
 
 ## Version History
 
