@@ -9,7 +9,7 @@ TIFF Validation Using JHOVE Application
 * Output information will be written in the excel file
 * Input files should be TIFF file path
 * Output log file will written in the same path of the TIFF file with the below fields
-* Properties: Status (file is valid or not), TIFF Version, Compression, Width & Height, Color Mode, ICC Profile, Date Time, Artist, Scanner Name, Scanner Model, Scanner Software, Orientation, Resolution, Bits Per Sample, Sample Per Pixel
+* Properties: Status (file is valid or not), TIFF Version, Compression, Width & Height, Color Mode, ICC Profile, Date Time, Artist, Scanner Name, Scanner Model, Scanner Software, Orientation, Resolution, Bits Per Sample, Sample Per Pixel 
 
 ## Getting Started
 
