@@ -1,6 +1,6 @@
 # Project Title
 
-TIFF Validation Using JHOVE Application
+TIFF Validation Using JHOVE Application 
 
 ## Description
 
