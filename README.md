@@ -15,7 +15,7 @@ TIFF Validation Using JHOVE Application
 
 ### Dependencies
 
-* Windows 7
+* Windows 7 or above
 
 ### Installing
 
